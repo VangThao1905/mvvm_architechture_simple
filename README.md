@@ -1,2 +1,2 @@
 # mvvm_architechture_simple
-MVVM architechture in android using Retofit2, Glide, RecyclerView
+MVVM architechture in android using Retofit2, Live Data, Glide, RecyclerView
